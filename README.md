@@ -3,3 +3,5 @@ code for paper MVSG-PPIS: Enhancing Protein-Protein Interaction Site Prediction 
 
 
 The private repository will be made available after the publication of the paper. url: https://github.com/tlaymedown/MVSG-PPIS
+
+We have provided the basic code, and the specific model weight file will be provided after the article is published
